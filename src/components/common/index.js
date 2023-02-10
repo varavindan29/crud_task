@@ -1,1 +1,0 @@
-export {CommanAlert} from './alert'
